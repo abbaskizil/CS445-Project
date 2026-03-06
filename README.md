@@ -25,3 +25,9 @@ Model performance is evaluated using the official task metrics, along with addit
 This repository includes only our own implementation and experimental work.
 External frameworks such as PyTorch and HuggingFace Transformers are used solely as supporting libraries for model development.
 Consistent with the CS445 course project guidelines, the primary focus of this project is on methodological exploration and analysis, rather than optimizing specifically for leaderboard performance.
+
+# CONTRIBUTORS
+Abbas Kızıl
+Emre Çavuş
+Alp Yelekçi
+Teoman Yamacı
