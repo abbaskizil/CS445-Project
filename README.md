@@ -28,6 +28,9 @@ Consistent with the CS445 course project guidelines, the primary focus of this p
 
 # CONTRIBUTORS
 Abbas Kızıl
+
 Emre Çavuş
+
 Alp Yelekçi
+
 Teoman Yamacı
